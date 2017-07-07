@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C16-0210
+
+ Directory of C:\Users\Srikanth Y\Desktop\My Project
+
+07/07/2017  10:37 AM    <DIR>          .
+07/07/2017  10:37 AM    <DIR>          ..
+06/26/2017  05:12 PM                22 index.html
+06/26/2017  05:21 PM                74 kj.html
+06/26/2017  05:21 PM                 8 test1.txt
+06/26/2017  05:11 PM                 8 test2.txt
+06/26/2017  05:11 PM                 8 test3.txt
+06/26/2017  05:11 PM                 8 test4.txt
+06/26/2017  05:11 PM                 8 test5.txt
+07/07/2017  10:37 AM                 0 testghj.txt
+               8 File(s)            136 bytes
+               2 Dir(s)  311,327,510,528 bytes free
